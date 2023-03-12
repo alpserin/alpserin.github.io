@@ -208,20 +208,4 @@ a {
     width: 100%;
  }
 
-.hello-message {
-    animation-duration: 8s;
-    animation-name: slidein;
-    animation-iteration-count: infinite;
-}
 
-@keyframes slidein {
-  0% {
-    margin-left: 0%;
-  }
-  50% {
-    margin-left: 800px;
-  }
-  100% {
-    margin-left: 0%;
-  }
-}
